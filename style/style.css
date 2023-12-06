@@ -1,5 +1,5 @@
 h1,h2,h3,h4,h5,h6,p,li,ul{
-    color: #454ea0;
+    color: #4546a0;
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
   }
@@ -21,7 +21,7 @@ h1,h2,h3,h4,h5,h6,p,li,ul{
     height: 100%;
     width: 100%;
     overflow: overlay;
-    background-color: #1e66ea;
+    background-color: #ea1e1e;
   }
   
   @media (min-width: 50vh){
@@ -45,8 +45,8 @@ h1,h2,h3,h4,h5,h6,p,li,ul{
   }
   
   input[type=text]:focus, input[typer=message]:focus, input[type=email]:focus, textarea:focus {
-    background-color: lightblue;
-    color: black;
+    background-color: rgb(230, 173, 173);
+    color: rgba(0, 0, 0, 0.795);
   }
   
   .st-dh {
@@ -63,8 +63,8 @@ h1,h2,h3,h4,h5,h6,p,li,ul{
   }
   
   title{
-    background-color: #04AA6D;
-    color: white;
+    background-color: #aa049c;
+    color: rgb(255, 255, 255);
     padding: 12px 20px;
     border: none;
     border-radius: 4px;
